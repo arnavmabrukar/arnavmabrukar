@@ -20,7 +20,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # CommitGachi — Feed Your Pet with Commits 🐱⚡
 
-![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-arnav-s-pet-cat-sunrise&name=Arnav%27s+Pet&type=cat&mood=happy&theme=sunrise)
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-mochi-cat-classic&name=Mochi&type=cat&difficulty=easy&theme=classic)
+<!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
 Description:
 This isn’t just a README badge — it’s a living pet.
