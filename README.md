@@ -17,6 +17,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=arnavmabrukar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# CommitGachi — Feed Your Pet with Commits 🐱⚡
 
+Description:
+This isn’t just a README badge — it’s a living pet.
+
+Every commit you make keeps your CommitGachi alive and thriving.
+Stop coding… and your pet might get sad 👀
+
+Spawn your own and flex it on your profile:
+
+👉 https://commitgachi.vercel.app
 ![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-arnav-s-pet-cat-sunrise&name=Arnav%27s+Pet&type=cat&mood=happy&theme=sunrise)
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
