@@ -21,7 +21,6 @@
 # CommitGachi — Feed Your Pet with Commits 🐱⚡
 
 ![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-mochi-cat-classic&name=Mochi&type=cat&difficulty=easy&theme=classic)
-<img width="260" height="64" alt="image" src="https://github.com/user-attachments/assets/81a8ee61-5fa3-4e05-8457-336e9abe0f53" />
 
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
