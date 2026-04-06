@@ -20,8 +20,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # CommitGachi — Feed Your Pet with Commits 🐱⚡
 
-![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-mochi-cat-classic&name=Mochi&type=cat&difficulty=easy&theme=classic)
-
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-arnav-s-pet-blob-forest&name=arnav%27s+pet&type=blob&difficulty=hard&theme=forest)
+<!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
 Description:
