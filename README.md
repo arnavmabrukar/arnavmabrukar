@@ -17,5 +17,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=arnavmabrukar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![CommitGachi pet](https://commit-gachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-mochi-cat-classic&name=Mochi&type=cat&mood=happy&theme=classic)
-<!-- CommitGachi proudly created by @arnavmabrukar  (https://commit-gachi.vercel.app) -->
+
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=arnavmabrukar&pet=arnavmabrukar-arnav-s-pet-cat-sunrise&name=Arnav%27s+Pet&type=cat&mood=happy&theme=sunrise)
+<!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
