@@ -1,4 +1,4 @@
-speed## Hey, I’m Arnav 👋
+## Hey, I’m Arnav 👋
 
 CS + Data Science @ Rutgers.  
 I build AI-powered products end-to-end, from model training to production UI.
