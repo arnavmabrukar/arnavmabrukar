@@ -18,7 +18,7 @@ I build AI-powered products end-to-end, from model training to production UI.
 
 ## CommitGachi by @arnavmabrukar
 
-![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render.svg?user=arnavmabrukar&pet=arnavmabrukar-tide-tide-sunrise&name=Tide&type=tide&difficulty=hard&theme=sunrise&bornAt=2026-04-09T16%3A42%3A24.873Z&timezone=America%2FNew_York)
+![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render.svg?user=arnavmabrukar&pet=arnavmabrukar-tide-tide-sunrise&name=Tide&type=tide&difficulty=hard&theme=sunrise&bornAt=2026-04-09T20%3A03%3A18.028Z&timezone=America%2FNew_York)
 <!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 CommitGachi is a living GitHub pet powered by your commits, each commit keeps it happy and healthy!
 
