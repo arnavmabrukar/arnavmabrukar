@@ -3,7 +3,7 @@
 CS + Data Science @ Rutgers.  
 I build AI-powered products end-to-end, from model training to production UI.
 
-- Building: AI applications, deep learning models, production-ready systems  
+- Building: AI applications, deep learning models, production-ready systems testing
 - Involved in: IEEE AI/ML Division, JCC (Japanese Conversation Club), Bodybuilding Club at Rutgers  
 - Currently learning: Advanced deep learning, LLM systems, and Japanese  
 - Outside of code: Weightlifting (my Instagram is basically a lifting log)  
