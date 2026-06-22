@@ -1,6 +1,7 @@
 ## Hey, I’m Arnav 👋
 
-CS + Data Science @ Rutgers.  
+Rutgers University Alumni 26'
+B.S. in Computer Science & Data Science
 I build AI-powered products end-to-end, from model training to production UI.
 
 - Building: AI applications, deep learning models, production-ready systems
